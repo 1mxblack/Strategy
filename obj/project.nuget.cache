@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "URYQMRWHY81fTuyQOuJNk0dCrEGE65BTghKmfJdj5q9EGcMGZ6HDkWFk51ltvAzK2T9rN4uhRetwbAvenFoVkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Strategy\\Strategy\\Strategy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
